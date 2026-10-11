@@ -47,7 +47,7 @@ Spider Cube is a small visual experiment that turns a collection of images into 
 
 ---
 
-## 🛠️ 
+## 🛠️ Built With
 
 * 🌐 **HTML5**
 * 🎨 **CSS3**
