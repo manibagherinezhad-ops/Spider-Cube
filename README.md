@@ -39,7 +39,7 @@ Spider Cube is a small visual experiment that turns a collection of images into 
 * 🖱️ **Hover Interaction**  
   The main interaction is triggered by moving the pointer over the cube.
 
-* 🎨 **Image-Based Design**  
+* 🎨 **-Based Design**  
   The images are the main visual elements of the project, giving the cube its distinctive appearance.
 
 * ⚡ **CSS-Based Interaction**  
