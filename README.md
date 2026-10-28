@@ -30,7 +30,7 @@ Spider Cube is a small visual experiment that turns a collection of images into 
 * 🖼️ **Multiple Image Faces**  
   Different images are used to give each face of the cube its own visual identity.
 
-* 🌀 **Interactive Cube Rotation**  
+* 🌀 ** Cube Rotation**  
   Hovering over the cube triggers a rotation of the entire object.
 
 * 📐 **Three-Dimensional Visual Effect**  
